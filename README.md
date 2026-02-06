@@ -8,7 +8,7 @@ My name is Ba Ka. I am a Software Engineer at PTITHCM. I am interested in the fo
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="[https://github.com/vietnh1009/QuickDraw](https://github.com/KaNguyen3005/identity_service_springboot_2025">
+<a href="https://github.com/KaNguyen3005/identity_service_springboot_2025">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Identity Service&theme=radical" />
 </a>    
