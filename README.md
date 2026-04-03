@@ -29,6 +29,6 @@ My name is Ba Ka. I am a Software Engineer at PTITHCM. I am interested in the fo
 </a>    
 <a href="https://github.com/KaNguyen3005/quan_li_sinh_vien_qtcreator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight" />
 </a>    
 
