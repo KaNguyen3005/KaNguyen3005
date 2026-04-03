@@ -31,4 +31,12 @@ My name is Ba Ka. I am a Software Engineer at PTITHCM. I am interested in the fo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight" />
 </a>    
+<a href="https://github.com/KaNguyen3005/Bookstore-System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=Bookstore-System&theme=gruvbox" />
+</a>    
+<a href="https://github.com/KaNguyen3005/Neethgie-Plus">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=Neethgie-Plus&theme=dracula" />
+</a>    
 
