@@ -27,3 +27,8 @@ My name is Ba Ka. I am a Software Engineer at PTITHCM. I am interested in the fo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=BTLC-_ban_chinh&theme=dracula" />
 </a>    
+<a href="https://github.com/BuBaKaNg/quan_li_sinh_vien_qtcreator">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight" />
+</a>    
+
