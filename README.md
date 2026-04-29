@@ -1,5 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Ba Ka. I am a Software Engineer at PTITHCM. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning, Backend Developer, Software Engineer.<br>
+
+Specilist in codeforce.
+Handle: morex3
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bu-ba-ka-mo-ha-mach-002713309) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KaNguyen3005)
