@@ -18,9 +18,9 @@ Handle: morex3
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=maze_solver_beginning_AI&theme=tokyonight" />
 </a>   
-<a href="https://github.com/ldqanh1408/gugugaga">
+<a href="[https://github.com/ldqanh1408/gugugaga](https://github.com/KaNguyen3005/gugugaga/tree/main)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldqanh1408&repo=gugugaga&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=gugugaga&theme=gruvbox" />
 </a>    
 <a href="https://github.com/BuBaKaNg/Algorithm-And-Datastructure">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
