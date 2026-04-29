@@ -28,11 +28,11 @@ Handle: morex3
 </a>    
 <a href="https://github.com/BuBaKaNg/BTLC-_ban_chinh">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=BTLC-_ban_chinh&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=BTLC-_ban_chinh&theme=dracula&cache_seconds=1800" />
 </a>    
 <a href="https://github.com/KaNguyen3005/quan_li_sinh_vien_qtcreator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=quan_li_sinh_vien_qtcreator&theme=tokyonight&cache_seconds=1800" />
 </a>    
 <a href="https://github.com/KaNguyen3005/Bookstore-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
