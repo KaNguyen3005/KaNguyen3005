@@ -18,15 +18,14 @@ Handle: morex3
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=maze_solver_beginning_AI&theme=tokyonight" />
 </a>   
-<a href="[https://github.com/ldqanh1408/gugugaga](https://github.com/KaNguyen3005/gugugaga/tree/main)">
+<a href="https://github.com/KaNguyen3005/gugugaga/tree/main">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KaNguyen3005&repo=gugugaga&theme=gruvbox" />
 </a>    
 <a href="https://github.com/BuBaKaNg/Algorithm-And-Datastructure">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<a href="https://github.com/BuBaKaNg/Algorithm-And-Datastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuBaKaNg&repo=Algorithm-And-Datastructure&theme=highcontrast&cache_seconds=1800" />
-</a></a>    
+</a>    
 <a href="https://github.com/BuBaKaNg/BTLC-_ban_chinh">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BuBaKaNg&repo=BTLC-_ban_chinh&theme=dracula" />
