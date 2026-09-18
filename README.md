@@ -80,13 +80,13 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KaNguyen3005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=KaNguyen3005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=KaNguyen3005&theme=tokyonight&no-frame=true&column=7&margin-w=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaNguyen3005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
