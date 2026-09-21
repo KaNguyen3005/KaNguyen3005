@@ -51,6 +51,7 @@ Với phương châm **kỷ luật, chuẩn xác và không ngừng bứt phá**
 
 <br>
 
+- 🔥 **Chung kết ICPC PTITHCM & Olympic AI Contest PTIT (09/2026)**: Xuất sắc tranh tài tại Vòng Chung kết Lập trình sinh viên quốc tế ICPC PTITHCM và Cuộc thi Olympic AI Contest PTITHCM tháng 09/2026.
 - 🎓 **Supreme Academic Scholarship (2023 – Hiện tại)**: Đạt **Học bổng loại Xuất sắc toàn bộ 100% các kỳ học liên tục** tại Học viện Công nghệ Bưu chính Viễn thông (PTITHCM).
 - 🥇 **Quán quân (Giải Nhất) ICPC PTITHCM 2024**: Nhà vô địch Kỳ thi Lập trình sinh viên ICPC cấp học viện năm 2024.
 - 🥈 **Á quân (Giải Nhì) ICPC PTITHCM 2025**: Giải Nhì Kỳ thi Lập trình sinh viên ICPC cấp học viện năm 2025.
