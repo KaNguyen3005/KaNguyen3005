@@ -16,6 +16,9 @@
     <a href="https://codeforces.com/profile/morex3">
       <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
     </a>
+    <a href="https://icpc.global/ICPCID/KX82OXXF5CSE">
+      <img src="https://img.shields.io/badge/ICPC_ID-KX82OXXF5CSE-F59E0B?style=flat-square&logo=target&logoColor=white" alt="ICPC ID" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=KaNguyen3005&label=Profile+Views&color=2563EB&style=flat-square" alt="Profile Views" />
   </p>
 
@@ -50,6 +53,7 @@ Với phương châm **kỷ luật, chuẩn xác và không ngừng bứt phá**
 - 🥈 **Á quân (Giải Nhì) ICPC PTITHCM 2025**: Giải Nhì Kỳ thi Lập trình sinh viên ICPC cấp học viện năm 2025.
 - 🇻🇳 **ICPC Vietnam National 2025 Finalist**: Thành viên đại diện tham dự Kỳ thi Lập trình Quốc gia ICPC Vietnam National 2025.
 - ⚡ **Codeforces Specialist ([morex3](https://codeforces.com/profile/morex3))**: Thứ hạng Specialist trên đấu trường lập trình thuật toán quốc tế Codeforces.
+- 🌐 **Hồ Sơ Tuyển Thủ ICPC Toàn Cầu ([ICPC ID: KX82OXXF5CSE](https://icpc.global/ICPCID/KX82OXXF5CSE))**: Trang xác thực tư cách tuyển thủ chính thức tại hệ thống International Collegiate Programming Contest.
 
 ---
 
@@ -282,6 +286,10 @@ Với phương châm **kỷ luật, chuẩn xác và không ngừng bứt phá**
   <a href="https://codeforces.com/profile/morex3">
     <img src="https://img.shields.io/badge/Codeforces-morex3-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
+  &nbsp;
+  <a href="https://icpc.global/ICPCID/KX82OXXF5CSE">
+    <img src="https://img.shields.io/badge/ICPC_ID-KX82OXXF5CSE-F59E0B?style=for-the-badge&logo=target&logoColor=white" alt="ICPC ID" />
+  </a>
 </p>
 
 <br>
@@ -289,3 +297,4 @@ Với phương châm **kỷ luật, chuẩn xác và không ngừng bứt phá**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
+
