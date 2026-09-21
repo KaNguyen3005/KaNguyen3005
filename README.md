@@ -7,6 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Distributed+Systems+Architect;Qu%C3%A1n+qu%C3%A2n+ICPC+PTITHCM+2024+%26+%C3%81+qu%C3%A2n+2025+%F0%9F%8F%86;H%E1%BB%8Dc+b%E1%BB%95ng+Xu%E1%BA%A5t+s%E1%BA%AFc+to%C3%A0n+b%E1%BB%99+c%C3%A1c+k%E1%BB%B3+h%E1%BB%8Dc+(2023+-+Nay)+%F0%9F%8E%93;T%C3%A1c+gi%E1%BA%A3+b%C3%A0i+b%C3%A1o+khoa+h%E1%BB%8Dc+qu%E1%BB%91c+t%E1%BA%BF+I-SMAC+2026+%F0%9F%93%9C;Researching+Effective+AI+Agents+%26+Applied+Deep+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
   <p>
+    <a href="https://kanguyen3005.github.io/">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Portfolio-kanguyen3005.github.io-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Live Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/bu-ba-ka-mo-ha-mach-002713309">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -275,6 +278,10 @@ Với phương châm **kỷ luật, chuẩn xác và không ngừng bứt phá**
 <br>
 
 <p>
+  <a href="https://kanguyen3005.github.io/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-kanguyen3005.github.io-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/bu-ba-ka-mo-ha-mach-002713309">
     <img src="https://img.shields.io/badge/LinkedIn-M%C3%B4_Ha_M%C3%A1ch_Bu_Ba_Ka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
